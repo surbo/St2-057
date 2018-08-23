@@ -1,3 +1,9 @@
+# Credit to jas502n
+
+Check Master for any updates and fixes. Translation purposes only. (I will try and update fixes)
+```
+Master https://github.com/jas502n/St2-057
+```
 # St2-057 Online Docking Environment, Enjoy!
 
 
