@@ -3,7 +3,7 @@
 
 # 0x01 Setting up the environment docker
 
-https://github.com/vulhub/vulhub/tree/master/struts2/s2-048
+https://github.com/surbo/vulhub/tree/master/struts2/s2-048
 
 ```
 docker-compose up -d
